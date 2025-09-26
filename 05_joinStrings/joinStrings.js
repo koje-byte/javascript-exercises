@@ -8,8 +8,14 @@
 */
 
 // Add your code right below, good luck!
-
-
+firstName="Ahmad";
+lastName="Hassan";
+thisYear=2025;
+birthYear=2002;
+const greeting= "Hello! My name is " + firstName + " " + lastName + " and I am " + (thisYear - birthYear) + " years old.";
+fullName=firstName+" "+lastName;
+age=thisYear-birthYear;
+console.log(greeting);
 
 
 
